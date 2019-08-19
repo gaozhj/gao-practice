@@ -1,5 +1,5 @@
-### Practice
-####剑指offer 3-9 (pratice)
+## Practice
+### 剑指offer 3-9 (pratice)  
   3. 数组中重复的数字  
   4. 二维数组中的查找  
   5. 替换空格  
